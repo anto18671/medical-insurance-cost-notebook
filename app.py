@@ -1,5 +1,3 @@
-# app.py
-
 # Import standard libraries
 import warnings
 import os
